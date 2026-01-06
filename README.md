@@ -1,4 +1,4 @@
-# Sistemas_con_Microprocesadores-UGR
+# Sistemas con Microprocesadores (UGR)
 Material docente de la asignatura Sistemas con Microprocesadores
 
 ## Derechos de autor y licencias
