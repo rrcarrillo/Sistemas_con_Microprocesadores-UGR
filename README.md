@@ -1,9 +1,12 @@
 # Sistemas con Microprocesadores (UGR)
 Material docente de la asignatura Sistemas con Microprocesadores
 
-## Derechos de autor y licencias
+## Canal de YouTube de la asignatura
+[https://www.youtube.com/@sistemasconmicroprocesadores](https://www.youtube.com/@sistemasconmicroprocesadores)
 
-**Información sobre derechos de autor y licencia CC BY-NC-SA 4.0 Internacional**
+Aquí se pueden encontrar los vídeos de los combates de sumo en los que han participado los robots creados por el alumnado de la asinatura de varios cursos.
+
+## Derechos de autor y licencias
 
 Este es un contenido abierto y se distribuye bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
 
